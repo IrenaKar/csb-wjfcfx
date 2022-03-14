@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://irenakar.github.io/csb-wjfcfx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://irenakar.github.io/csb-wjfcfx/static/js/main.ff065753.chunk.js",
+    "main.js.map": "https://irenakar.github.io/csb-wjfcfx/static/js/main.ff065753.chunk.js.map",
+    "runtime-main.js": "https://irenakar.github.io/csb-wjfcfx/static/js/runtime-main.152fff1f.js",
+    "runtime-main.js.map": "https://irenakar.github.io/csb-wjfcfx/static/js/runtime-main.152fff1f.js.map",
+    "static/js/2.fb834de3.chunk.js": "https://irenakar.github.io/csb-wjfcfx/static/js/2.fb834de3.chunk.js",
+    "static/js/2.fb834de3.chunk.js.map": "https://irenakar.github.io/csb-wjfcfx/static/js/2.fb834de3.chunk.js.map",
+    "index.html": "https://irenakar.github.io/csb-wjfcfx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://irenakar.github.io/csb-wjfcfx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fb834de3.chunk.js.LICENSE.txt": "https://irenakar.github.io/csb-wjfcfx/static/js/2.fb834de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.152fff1f.js",
+    "static/js/2.fb834de3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ff065753.chunk.js"
+  ]
+}
